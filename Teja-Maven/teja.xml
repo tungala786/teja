@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="teja-suite">
+<test name="teja-test">
+
+<classes>
+
+  <class name="myPack.Teja"/>
+
+</classes>
+</test>
+</suite>
